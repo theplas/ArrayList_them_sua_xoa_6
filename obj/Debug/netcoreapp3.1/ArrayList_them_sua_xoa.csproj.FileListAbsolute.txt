@@ -1,0 +1,13 @@
+D:\gif CG\levantuanpxu\ArrayList_them_sua_xoa\bin\Debug\netcoreapp3.1\ArrayList_them_sua_xoa.exe
+D:\gif CG\levantuanpxu\ArrayList_them_sua_xoa\bin\Debug\netcoreapp3.1\ArrayList_them_sua_xoa.deps.json
+D:\gif CG\levantuanpxu\ArrayList_them_sua_xoa\bin\Debug\netcoreapp3.1\ArrayList_them_sua_xoa.runtimeconfig.json
+D:\gif CG\levantuanpxu\ArrayList_them_sua_xoa\bin\Debug\netcoreapp3.1\ArrayList_them_sua_xoa.runtimeconfig.dev.json
+D:\gif CG\levantuanpxu\ArrayList_them_sua_xoa\bin\Debug\netcoreapp3.1\ArrayList_them_sua_xoa.dll
+D:\gif CG\levantuanpxu\ArrayList_them_sua_xoa\bin\Debug\netcoreapp3.1\ArrayList_them_sua_xoa.pdb
+D:\gif CG\levantuanpxu\ArrayList_them_sua_xoa\obj\Debug\netcoreapp3.1\ArrayList_them_sua_xoa.csprojAssemblyReference.cache
+D:\gif CG\levantuanpxu\ArrayList_them_sua_xoa\obj\Debug\netcoreapp3.1\ArrayList_them_sua_xoa.AssemblyInfoInputs.cache
+D:\gif CG\levantuanpxu\ArrayList_them_sua_xoa\obj\Debug\netcoreapp3.1\ArrayList_them_sua_xoa.AssemblyInfo.cs
+D:\gif CG\levantuanpxu\ArrayList_them_sua_xoa\obj\Debug\netcoreapp3.1\ArrayList_them_sua_xoa.csproj.CoreCompileInputs.cache
+D:\gif CG\levantuanpxu\ArrayList_them_sua_xoa\obj\Debug\netcoreapp3.1\ArrayList_them_sua_xoa.dll
+D:\gif CG\levantuanpxu\ArrayList_them_sua_xoa\obj\Debug\netcoreapp3.1\ArrayList_them_sua_xoa.pdb
+D:\gif CG\levantuanpxu\ArrayList_them_sua_xoa\obj\Debug\netcoreapp3.1\ArrayList_them_sua_xoa.genruntimeconfig.cache
